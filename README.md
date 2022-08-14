@@ -7,3 +7,9 @@ auto generation for mascotte - from Country national emblems (?) problem if offl
 
 auto generation for color pallete - from Country Flag Colors
 
+
+tools :
+
+scripts for Image Magic
+
+and bash comands for generate configs
