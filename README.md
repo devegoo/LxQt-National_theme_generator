@@ -12,4 +12,4 @@ tools :
 
 scripts for Image Magic
 
-and bash comands for generate configs
+and bash commands for generating configs
