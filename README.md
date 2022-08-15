@@ -3,7 +3,7 @@
 <img width="964" alt="screen" src="https://github.com/devegoo/LxQt-National_theme_generator/blob/main/background/background.png">
 
 
-
+<img width="964" alt="screen" src="https://github.com/devegoo/LxQt-National_theme_generator/blob/main/background/scripted_sddm_background.jpg">
 # LxQt-National_theme_generator
 mockup for national auto generated theme for lxqt desktop
 
