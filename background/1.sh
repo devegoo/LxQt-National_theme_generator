@@ -3,7 +3,7 @@
 
 #Yaxis=$(xrandr --current | grep '*' | uniq | awk '{print $1}' | cut -d 'x' -f2)
 
-F=$(printenv "LANG" | cut -c 1-2)
+F=$(printenv "LANG" | cut -d "_" -f2- | cut -d "." -f1 | tr "[:upper:]" "[:lower:]")
 
 cp /usr/share/sddm/flags/$F.png flag.png
 

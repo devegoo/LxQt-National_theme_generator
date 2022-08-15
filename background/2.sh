@@ -4,7 +4,7 @@ Xaxis=$(xrandr --current | grep '*' | uniq | awk '{print $1}' | cut -d 'x' -f1)
 Yaxis=$(xrandr --current | grep '*' | uniq | awk '{print $1}' | cut -d 'x' -f2)
 
 
-country=$(./country.sh $(printenv "LANG" | cut -c 1-2))
+country=$(./country.sh $(printenv "LANG" | cut -d "_" -f2- | cut -d "." -f1 | tr "[:upper:]" "[:lower:]"))
 
 X=$(( Xaxis / 2 ))
 Y=$(( Yaxis / 2 ))
