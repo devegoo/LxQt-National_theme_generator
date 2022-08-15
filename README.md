@@ -1,6 +1,6 @@
 
 
-<img width="964" alt="screen" src="https://github.com/devegoo/LxQt-National_theme_generator/blob/main/background/background_TZ.png">
+<img width="964" alt="screen" src="https://github.com/devegoo/LxQt-National_theme_generator/blob/main/background_TZ.png">
 
 
 <img width="964" alt="screen" src="https://github.com/devegoo/LxQt-National_theme_generator/blob/main/background/scripted_sddm_background.jpg">
